@@ -1,4 +1,4 @@
 function tocasompom(){
-    document.querySelector ('#toca_som_pom').play();
+    document.querySelector ('#toca_som_pom').onclick = tocasomclap; play();
 }
-document.querySelector('tecla_clap'). onclick = tocasomclap
+const listadeteclas = document.querySelectorA11('.tecla')
